@@ -20,7 +20,7 @@ export function Void(){
       "Just when the void thought it had reached peak voidness, your inexplicable yell injected it with a fractal of puzzlement.",
       "The void tried its best to catch your heartfelt screams but got distracted by a butterfly. Sorry.",
       "SCRP VIDCASDET! It seems you forgot to take safety precautions before hitting submit. You are right to now be worried.",
-      "Feeling of melancholy are normal. You have been assigned to morn an unloved stranger's death.",
+      "You have been assigned to morn an unloved stranger's death. Feelings of melancholy are normal.",
       "BINGO! The sincerity alarm went off!",
       "No.",
       "PSA: Beware of employees from the tax office who compete against you during play auditions."

@@ -1,5 +1,5 @@
 import './App.css'
-import { Void } from './void-interaction'
+import { Void } from './void'
 
 function App() {
 
