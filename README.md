@@ -1,10 +1,4 @@
-# React + Vite
+# Scream into the Void
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/567f2350-e404-443f-a15a-8e4538e518a0/deploy-status)](https://app.netlify.com/sites/scream-into-the-void/deploys)
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The void respects your privacy and collects no data about you. Hell, it's not even know what you said.
